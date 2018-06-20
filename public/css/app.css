@@ -1,0 +1,126 @@
+/*---------------------------------
+Abarcar el 100% del navegador
+---------------------------------*/
+
+html, body {
+	width: 100%;
+	min-height: 100%;
+	height: 100%;
+	/*height: auto !important;*/
+}
+
+body {
+	background-color: white;
+}
+
+/*---------------------------------
+Menú izquierdo
+---------------------------------*/
+
+.container-fluid, .sidenav, .content {
+	min-height: 100%;
+	height: 100%;
+}
+
+.menu-left {
+	border-right: 1px solid #d2d6de;
+	/*background-color: #f1f1f1;*/
+}
+
+/*---------------------------------
+Logos
+---------------------------------*/
+.img-logo {
+	height: 120px;
+	margin: 10px;
+}
+
+.img-logo-md {
+	height: 90px;
+	margin: 10px;
+}
+
+.img-logo-sm {
+	height: 75px;
+	margin: 2px;
+}
+
+.img-logo-xs {
+	height: 57px;
+	margin: 2px;
+}
+
+/*-------------------------------
+-------------------------------*/
+.menu-left {
+	margin: 0 ;
+	padding: 0;
+	height: 100%;
+}
+
+.navbar-left {
+	height: 100%;
+	width: 100%;	
+}
+
+.navbar-left > p {
+	display: inline-block;
+	width: 100%;
+}
+
+ul.navbar-nav {
+	width: 100%;
+}
+
+ul.navbar-nav > li,  ul.navbar-nav > a {
+	display: block;
+	width: 100%;
+}
+
+.navbar-inverse .navbar-nav > .active > a	{
+	background-color: rgba(255,255,255,0.2);
+}
+
+.navbar-inverse .navbar-nav > .active > a:hover	{
+	background-color: rgba(255,255,255,0.3);
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	background-color: rgba(255,255,255,0.3);
+}
+
+p.padding-15 {
+	text-align: center;
+}
+
+/*---------------------------------
+Botones archivo
+---------------------------------*/
+.btn-file {
+	position: relative;
+	overflow: hidden;
+}
+.btn-file input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	min-width: 100%;
+	min-height: 100%;
+	font-size: 100px;
+	text-align: right;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	outline: none;
+	background: white;
+	cursor: inherit;
+	display: block;
+}
+
+.btn-whatever,
+.btn-whatever:active,
+.btn-whatever:visited, 
+.btn-whatever:focus {
+	color: white;
+	background-color: #5D6D7E;
+}
+

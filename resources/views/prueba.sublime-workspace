@@ -1,0 +1,694 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"isset",
+				"isset"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"crea",
+				"CreaColumna"
+			],
+			[
+				"estr",
+				"estructura"
+			],
+			[
+				"cam",
+				"campos"
+			],
+			[
+				"tabl",
+				"tablas"
+			],
+			[
+				"Reques",
+				"Request"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tab",
+				"tabla"
+			],
+			[
+				"in",
+				"info \tBootstrap 3 Class"
+			],
+			[
+				"diametro_",
+				"diametro_min"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"btn-a",
+				"btn-secondary \tBootstrap 4 Class"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"btn-suc",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"btn-succ",
+				"btn-outline-success \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-info \tBootstrap 3 Class"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"btn-su",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"btn-succes",
+				"btn-outline-success \tBootstrap 4 Class"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"btn-pry",
+				"btn-outline-primary \tBootstrap 4 Class"
+			],
+			[
+				"btn-",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"lis",
+				"list-group-item \tBootstrap 3 Class"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"navbar-fixed",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"fixed-t",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"fixed",
+				"fixed-bottom \tBootstrap 4 Class"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"file",
+				"custom-file \tBootstrap 4 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"id_vara",
+				"id_variable"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"con",
+				"contador"
+			],
+			[
+				"esti",
+				"estimacion"
+			],
+			[
+				"str_ge",
+				"str_general"
+			],
+			[
+				"str_gene",
+				"str_genero_spp"
+			],
+			[
+				"niv",
+				"nivel2"
+			],
+			[
+				"par",
+				"part3"
+			],
+			[
+				"str",
+				"str_genero"
+			],
+			[
+				"id_gen",
+				"id3_get_genre_name"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"st",
+				"str_binomio"
+			],
+			[
+				"regirt",
+				"registro"
+			],
+			[
+				"arbol",
+				"arboles"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"getdat",
+				"GETDATE"
+			],
+			[
+				"id_con",
+				"id_condicion"
+			],
+			[
+				"text-dange",
+				"text-danger \tBootstrap 3 Class"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ar",
+				"arboles"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"navbar-",
+				"navbar-inverse \tBootstrap 4 Class"
+			],
+			[
+				"dropdo",
+				"dropdown-toggle"
+			],
+			[
+				"dropdown-to",
+				"dropdown-toggle \tBootstrap 4 Class"
+			],
+			[
+				"drop",
+				"dropdown \tBootstrap 3 Class"
+			],
+			[
+				"navbar-coll",
+				"navbar-collapse \tBootstrap 4 Class"
+			],
+			[
+				"navba",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"fix",
+				"fixed-top \tBootstrap 4 Class"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ta",
+				"table \tBootstrap 3 Class"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"btn-pr",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Regist",
+				"Registrado"
+			],
+			[
+				"mi",
+				"mi_diccionario"
+			],
+			[
+				"b",
+				"boleano"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/www/migracion/app/Estructura.php",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"codeintel",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/www/migracion",
+		"/D/www/migracion/app",
+		"/D/www/prueba"
+	],
+	"file_history":
+	[
+		"/D/www/migracion/app/Http/Controllers/UploadController.php",
+		"/D/www/migracion/package.json",
+		"/D/www/migracion/.env",
+		"/D/www/migracion/routes/web.php",
+		"/D/www/migracion/config/database.php",
+		"/D/www/migracion/config/database_.php",
+		"/D/www/migracion/config/app.php",
+		"/D/www/migracion/resources/views/index.blade.php",
+		"/D/www/migracion/config/database_old.php",
+		"/D/www/migracion/app/User.php",
+		"/D/www/migracion/public/css/app.css",
+		"/D/www/migracion/config/filesystems.php",
+		"/D/www/migracion/composer.json",
+		"/D/www/migracion/app/Custom/Estructura.php",
+		"/D/www/migracion/app/Estructura.php",
+		"/D/www/migracion/.env_old",
+		"/D/www/migracion/public/css/estilos.css",
+		"/D/www/migracion/config/auth.php",
+		"/D/www/pimof/app/Http/Controllers/StorageController.php",
+		"/D/www/pimof/app/arbol.php",
+		"/D/www/pimof/app/Estimacion.php",
+		"/D/www/pimof/resources/views/index.blade.php",
+		"/D/www/pimof/database/migrations/2017_11_13_024633_create_arbols_table.php",
+		"/D/www/pimof/public/css/estilos.css",
+		"/D/www/pimof/public/js/script.js",
+		"/D/www/pimof/app/Http/Controllers/Controller.php",
+		"/D/www/pimof/app/Http/Controllers/FrontController.php",
+		"/D/www/pimof/routes/web.php",
+		"/D/www/pimof/app/Http/Controllers/CalculoController.php",
+		"/D/www/pimof/database/migrations/2017_11_14_233323_create_estimacions_table.php",
+		"/D/www/pimof/database/migrations/2017_11_13_222132_create_modelos_table.php",
+		"/D/www/pimof/public/js/app.js",
+		"/D/www/pimof/app/Fraccion.php",
+		"/D/www/pimof/app/Densidad.php",
+		"/D/www/pimof/app/Estimacion_old.php",
+		"/D/www/pimof/config/app.php",
+		"/D/www/pimof/database/migrations/2017_11_14_192309_create_densidads_table.php",
+		"/D/www/pimof/database/migrations/2017_11_15_010356_create_biomasas_table.php",
+		"/D/www/pimof/database/migrations/2017_11_14_192345_create_fraccions_table.php",
+		"/D/www/pimof/database/migrations/2017_11_14_192345_create_faccions_table.php",
+		"/D/www/pimof/composer.lock",
+		"/D/www/pimof/composer.json",
+		"/D/www/pimof/config/database.php",
+		"/D/www/pimof/.env",
+		"/D/www/pimof/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/D/www/pimof/vendor/symfony/http-kernel/HttpCache/Store.php",
+		"/D/www/pimof/pimof.sublime-project",
+		"/D/www/juno/routes/web.php",
+		"/D/www/juno/public/css/estilos.css",
+		"/D/www/juno/resources/views/index.blade.php",
+		"/D/www/juno/app/Arbol.php",
+		"/D/www/juno/public/js/script.js",
+		"/D/www/juno/app/Estimacion.php",
+		"/D/www/juno/app/Modelo.php",
+		"/D/www/juno/app/Http/Controllers/CalculoController.php",
+		"/D/www/juno/database/migrations/2017_09_27_164233_create_estimacions_table.php",
+		"/D/www/juno/database/migrations/2017_09_29_121113_create_modelos_table.php",
+		"/D/www/juno/database/migrations/2017_08_15_171122_create_arbols_table.php",
+		"/D/www/juno/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/www/juno/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/D/www/juno/public/js/app.js",
+		"/D/www/juno/public/css/app.css",
+		"/D/www/juno/resources/views/layouts/principal.blade.php",
+		"/D/www/juno/database/migrations/2017_09_19_173400_create_estandarizacion_ecoregiones_table.php",
+		"/D/www/juno/database/migrations/2017_09_19_173419_create_estandarizacion_especies_table.php",
+		"/D/www/juno/app/Test.php",
+		"/D/www/juno/database/migrations/2017_09_12_112224_create_estandarizacions_table.php",
+		"/D/www/juno/config/database.php",
+		"/D/www/juno/.env",
+		"/D/www/juno/config/database_old.php",
+		"/D/www/juno/.env_old",
+		"/D/www/juno/app/Estandarizacion.php",
+		"/D/www/juno/database/migrations/2017_09_12_174952_create_promedios_especies_table.php",
+		"/D/www/juno/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/www/juno/database/migrations/2017_09_12_111122_create_estandarizacion_table.php",
+		"/D/www/juno/config/app.php",
+		"/D/www/juno/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
+		"/D/www/juno/app/Http/Controllers/FrontController.php",
+		"/D/www/calculo/app/Http/Controllers/FrontController.php",
+		"/C/xampp/htdocs/bootstrap/34/index.html",
+		"/D/www/calculo/resources/views/principal.blade.php",
+		"/C/xampp/htdocs/bootstrap/02/index.html",
+		"/C/xampp/htdocs/bootstrap/01/index.html",
+		"/D/www/calculo/resources/views/layouts/footer.blade.php",
+		"/D/www/calculo/config/database.php",
+		"/D/www/calculo/config/app.php",
+		"/D/www/calculo/app/User.php",
+		"/D/www/cinema/app/Http/Controllers/UsuarioController.php",
+		"/D/www/cinema/resources/views/usuario/edit.blade.php",
+		"/D/www/cinema/resources/views/layouts/admin.blade.php",
+		"/D/www/cinema/config/app.php",
+		"/D/www/cinema/composer.json",
+		"/D/www/cinema/resources/views/usuario/index.blade.php",
+		"/D/www/cinema/resources/views/usuario/forms/usr.blade.php",
+		"/D/www/cinema/app/User.php",
+		"/D/www/cinema/resources/views/usuario/create.blade.php",
+		"/D/Archivos/Desktop/Estimación para FAO/Arbolado/Ejecutar estimación.txt",
+		"/D/www/cinema/routes/web.php",
+		"/D/www/cinema/resources/views/index.blade.php",
+		"/D/www/cinema/resources/views/admin/index.blade.php",
+		"/D/www/cinema/resources/views/layouts/principal.blade.php",
+		"/D/www/cinema/resources/views/reviews.blade.php",
+		"/D/www/cinema/app/Http/Controllers/FrontController.php",
+		"/D/www/cinema/resources/views/admin/index.php",
+		"/D/www/cinema/resources/views/contact.blade.php",
+		"/D/www/cinema/resources/views/contact.php",
+		"/D/www/cinema/app/Http/Controllers/MovieController.php",
+		"/D/www/cinema/resources/views/reviews.php",
+		"/D/www/cinema/resources/views/index.php",
+		"/D/www/laravel/readme.md",
+		"/D/www/cinema/app/Http/Controllers/PruebaController.php",
+		"/D/www/cinema/.env",
+		"/D/www/cinema/app/Genre.php",
+		"/D/www/cinema/app/Movie.php",
+		"/D/www/cinema/database/migrations/2017_07_10_000000_create_genres_table.php",
+		"/D/www/cinema/database/migrations/2017_07_10_000000_create_movies_table.php",
+		"/D/Archivos/Desktop/django/prueba/src/boletin/forms.py",
+		"/D/Archivos/Desktop/django/prueba/src/templates/inicio.html",
+		"/D/Archivos/Desktop/django/prueba/src/prueba/urls.py",
+		"/D/Archivos/Desktop/django/prueba/src/boletin/views.py",
+		"/D/Archivos/Desktop/django/prueba/src/boletin/admin.py",
+		"/D/Archivos/Desktop/django/prueba/src/prueba/settings.py",
+		"/D/Archivos/Desktop/django/prueba/src/boletin/models.py",
+		"/D/Archivos/Desktop/Python ejercicios/Hola",
+		"/C/xampp/htdocs/new.py",
+		"/C/xampp/htdocs/new2.py",
+		"/D/Archivos/Desktop/django/prueba/prueba/manage.py",
+		"/D/wsgi_app/wsgi_app.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"+",
+			"Migracion\\SQLiteFile",
+			"SQLiteFile",
+			"public",
+			"UploadController",
+			"upload",
+			"boton",
+			"provider",
+			"public_folder",
+			"FrontController",
+			"comenzar",
+			"providers",
+			"aliases",
+			"provider",
+			"'aliases'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/www/migracion/app/Estructura.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prueba.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"uploa",
+				"vendor\\symfony\\http-foundation\\File\\UploadedFile.php"
+			],
+			[
+				"store",
+				"vendor\\symfony\\http-kernel\\HttpCache\\Store.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 451.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
